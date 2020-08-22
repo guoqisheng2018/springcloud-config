@@ -8,4 +8,4 @@ spring:
     password: "gqs123456"
     
 config:
-  info: "master branch,config-repo config-dev.yml version=8"
+  info: "master branch,config-repo config-dev.yml version=1"
