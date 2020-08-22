@@ -5,4 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/springCloud?useUnicode=true&characterEncoding=utf8&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
     username: root
-    password: "gqs123457"
+    password: "gqs123456"
+    
+config:
+  info: "master branch,config-repo config-dev.yml version=8"
